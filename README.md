@@ -173,3 +173,41 @@ SFC can automatically repair many common Windows file problems.
 
 - **"Windows Resource Protection found corrupt files but was unable to fix some of them"**
   - Additional troubleshooting may be required.
+
+## 7. Check Task Manager Performance
+
+Task Manager provides information about running applications, background processes, and system resource usage. It is commonly used to identify performance issues.
+
+### Steps:
+
+1. Press `Ctrl + Shift + Esc` to open Task Manager.
+2. Select the **Processes** tab.
+3. Review:
+   - CPU usage
+   - Memory usage
+   - Disk usage
+   - Network usage
+
+4. Select the **Performance** tab to view:
+   - CPU performance
+   - Memory usage
+   - Storage activity
+   - Network activity
+   - GPU usage
+
+### Why this matters:
+
+High resource usage can cause slow performance and may indicate:
+- Too many applications running
+- Resource-heavy programs
+- Background processes
+- Malware or unwanted software
+- Hardware limitations
+
+### Common troubleshooting steps:
+
+- Close unnecessary applications.
+- Restart the computer.
+- Disable unnecessary startup applications.
+- Investigate programs using excessive resources.
+- Check for software updates.
