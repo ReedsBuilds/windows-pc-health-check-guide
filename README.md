@@ -102,3 +102,40 @@ If updates fail, common troubleshooting steps include:
 - Checking internet connectivity
 - Ensuring enough storage space is available
 - Running the Windows Update Troubleshooter
+
+## 5. Check Device Manager
+
+Device Manager allows technicians to view installed hardware and check for driver or hardware-related issues.
+
+### Steps:
+
+1. Right-click the **Start Menu** button.
+2. Select **Device Manager**.
+3. Review the list of installed hardware.
+4. Look for:
+   - Yellow warning icons
+   - Unknown devices
+   - Disabled hardware
+   - Missing drivers
+
+### Common categories to check:
+
+- Network adapters
+- Display adapters
+- Audio inputs and outputs
+- Bluetooth devices
+- Storage controllers
+
+### Why this matters:
+
+Device Manager helps identify hardware problems and driver issues that may cause:
+- No internet connection
+- No sound
+- Display problems
+- Hardware not being recognized
+
+Common troubleshooting steps include:
+- Updating drivers
+- Uninstalling and reinstalling drivers
+- Restarting the computer
+- Checking for Windows updates
