@@ -272,3 +272,13 @@ Record:
 ### Why documentation matters:
 
 Clear documentation helps other technicians understand previous issues and creates a knowledge base for future troubleshooting.
+
+## Skills Demonstrated
+
+- Windows 11 troubleshooting
+- Hardware and system information gathering
+- Storage and memory troubleshooting
+- Device and driver management
+- Command-line troubleshooting
+- Basic IT documentation practices
+- Help desk troubleshooting methodology
