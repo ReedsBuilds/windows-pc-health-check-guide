@@ -46,3 +46,31 @@ Checking available storage helps identify if low disk space is causing performan
 A computer with very little free storage may experience slower performance, update failures, or problems installing new applications.
 
 A general recommendation is to keep some free space available on the drive to allow Windows and applications to function properly.
+
+## 3. Check Memory Usage (RAM)
+
+Checking memory usage helps identify if a computer is running slowly because of high RAM usage or too many background processes.
+
+### Steps:
+
+1. Press `Ctrl + Shift + Esc` to open Task Manager.
+2. Select the **Performance** tab.
+3. Select **Memory**.
+4. Review:
+   - Total installed RAM
+   - Current memory usage
+   - Available memory
+   - Memory speed
+
+You can also review the **Processes** tab to identify applications using large amounts of memory.
+
+### Why this matters:
+
+When a computer runs out of available memory, performance can decrease because Windows may rely more heavily on storage through virtual memory.
+
+High memory usage may be caused by:
+- Too many applications running at the same time
+- Background programs
+- Browser tabs
+- Malware or unwanted software
+- Insufficient RAM for the user's workload****
