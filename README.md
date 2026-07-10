@@ -139,3 +139,37 @@ Common troubleshooting steps include:
 - Uninstalling and reinstalling drivers
 - Restarting the computer
 - Checking for Windows updates
+
+## 6. Run System File Checker (SFC)
+
+System File Checker (SFC) is a Windows command-line tool used to scan and repair corrupted system files.
+
+### Steps:
+
+1. Open the Start Menu.
+2. Search for **Command Prompt**.
+3. Right-click and select **Run as administrator**.
+4. Type: sfc /scannow
+5. Press **Enter**.
+6. Wait for the scan to complete.
+
+### Why this matters:
+
+Corrupted Windows system files can cause:
+- Application crashes
+- System instability
+- Windows errors
+- Performance issues
+
+SFC can automatically repair many common Windows file problems.
+
+### Common results:
+
+- **"Windows Resource Protection did not find any integrity violations"**
+  - No corrupted files were found.
+
+- **"Windows Resource Protection found corrupt files and successfully repaired them"**
+  - Issues were detected and fixed.
+
+- **"Windows Resource Protection found corrupt files but was unable to fix some of them"**
+  - Additional troubleshooting may be required.
