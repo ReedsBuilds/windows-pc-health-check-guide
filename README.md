@@ -8,6 +8,16 @@ This guide explains basic steps to check the health and performance of a Windows
 
 This guide is intended for beginner IT technicians and users who want to perform basic troubleshooting.
 
+## Table of Contents
+
+1. [Check System Specifications](#1-check-system-specifications)
+2. [Check Storage Space](#2-check-storage-space)
+3. [Check Memory Usage (RAM)](#3-check-memory-usage-ram)
+4. [Check Windows Updates](#4-check-windows-updates)
+5. [Check Device Manager](#5-check-device-manager)
+6. [Run System File Checker (SFC)](#6-run-system-file-checker-sfc)
+7. [Check Task Manager Performance](#7-check-task-manager-performance)
+8. [Basic Troubleshooting Checklist](#8-basic-troubleshooting-checklist)
 ## 1. Check System Specifications
 
 Checking system specifications helps identify the computer's hardware and operating system information.
