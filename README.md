@@ -211,3 +211,54 @@ High resource usage can cause slow performance and may indicate:
 - Disable unnecessary startup applications.
 - Investigate programs using excessive resources.
 - Check for software updates.
+
+## 8. Basic Troubleshooting Checklist
+
+When troubleshooting a Windows computer, follow a structured approach to identify and resolve issues.
+
+### Step 1: Identify the Problem
+
+Ask the user:
+- What issue are you experiencing?
+- When did the issue start?
+- Has anything changed recently?
+- Is the problem affecting one user or multiple users?
+
+### Step 2: Perform Basic Checks
+
+Check:
+- Is the computer powered on?
+- Are cables connected properly?
+- Is the device connected to the internet?
+- Are there any error messages?
+
+### Step 3: Check System Health
+
+Review:
+- System specifications
+- Available storage
+- RAM usage
+- Windows updates
+- Device Manager
+- Task Manager performance
+
+### Step 4: Attempt a Solution
+
+Possible solutions:
+- Restart the computer
+- Install updates
+- Update drivers
+- Close unnecessary applications
+- Run system repair tools
+
+### Step 5: Document the Resolution
+
+Record:
+- The problem
+- Steps taken
+- Final solution
+- Any follow-up actions needed
+
+### Why documentation matters:
+
+Clear documentation helps other technicians understand previous issues and creates a knowledge base for future troubleshooting.
