@@ -74,3 +74,31 @@ High memory usage may be caused by:
 - Browser tabs
 - Malware or unwanted software
 - Insufficient RAM for the user's workload****
+
+## 4. Check Windows Updates
+
+Checking Windows Updates ensures the computer has the latest security patches, bug fixes, and feature updates installed.
+
+### Steps:
+
+1. Press `Windows Key + I` to open Settings.
+2. Select **Windows Update**.
+3. Click **Check for updates**.
+4. Review:
+   - Available updates
+   - Update history
+   - Failed updates (if any)
+
+### Why this matters:
+
+Keeping Windows updated helps:
+- Improve security
+- Fix software bugs
+- Improve system stability
+- Maintain compatibility with applications and hardware
+
+If updates fail, common troubleshooting steps include:
+- Restarting the computer
+- Checking internet connectivity
+- Ensuring enough storage space is available
+- Running the Windows Update Troubleshooter
